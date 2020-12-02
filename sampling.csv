@@ -1,257 +1,369 @@
-﻿year,prod_stage,commodity,pathogen,did_sample
-2015,Farm,Cattle,Campylobacter,0
-2015,Farm,Cattle,E. coli,0
-2015,Farm,Cattle,Enterococcus,0
-2015,Farm,Cattle,Salmonella,0
-2015,Farm,Chicken,Campylobacter,1
-2015,Farm,Chicken,E. coli,1
-2015,Farm,Chicken,Enterococcus,0
-2015,Farm,Chicken,Salmonella,1
-2015,Farm,Swine,Campylobacter,0
-2015,Farm,Swine,E. coli,1
-2015,Farm,Swine,Enterococcus,0
-2015,Farm,Swine,Salmonella,1
-2015,Farm,Turkey,Campylobacter,0
-2015,Farm,Turkey,E. coli,0
-2015,Farm,Turkey,Enterococcus,0
-2015,Farm,Turkey,Salmonella,0
-2015,Abattoir,Cattle,Campylobacter,1
-2015,Abattoir,Cattle,E. coli,1
-2015,Abattoir,Cattle,Enterococcus,0
-2015,Abattoir,Cattle,Salmonella,0
-2015,Abattoir,Chicken,Campylobacter,1
-2015,Abattoir,Chicken,E. coli,1
-2015,Abattoir,Chicken,Enterococcus,0
-2015,Abattoir,Chicken,Salmonella,1
-2015,Abattoir,Swine,Campylobacter,1
-2015,Abattoir,Swine,E. coli,1
-2015,Abattoir,Swine,Enterococcus,0
-2015,Abattoir,Swine,Salmonella,1
-2015,Abattoir,Turkey,Campylobacter,0
-2015,Abattoir,Turkey,E. coli,0
-2015,Abattoir,Turkey,Enterococcus,0
-2015,Abattoir,Turkey,Salmonella,0
-2015,Retail,Cattle,Campylobacter,0
-2015,Retail,Cattle,E. coli,1
-2015,Retail,Cattle,Enterococcus,0
-2015,Retail,Cattle,Salmonella,0
-2015,Retail,Chicken,Campylobacter,1
-2015,Retail,Chicken,E. coli,1
-2015,Retail,Chicken,Enterococcus,0
-2015,Retail,Chicken,Salmonella,1
-2015,Retail,Swine,Campylobacter,0
-2015,Retail,Swine,E. coli,1
-2015,Retail,Swine,Enterococcus,0
-2015,Retail,Swine,Salmonella,0
-2015,Retail,Turkey,Campylobacter,1
-2015,Retail,Turkey,E. coli,1
-2015,Retail,Turkey,Enterococcus,0
-2015,Retail,Turkey,Salmonella,1
-2015,Placement,Cattle,Campylobacter,0
-2015,Placement,Cattle,E. coli,0
-2015,Placement,Cattle,Enterococcus,0
-2015,Placement,Cattle,Salmonella,0
-2015,Placement,Chicken,Campylobacter,0
-2015,Placement,Chicken,E. coli,1
-2015,Placement,Chicken,Enterococcus,0
-2015,Placement,Chicken,Salmonella,1
-2015,Placement,Swine,Campylobacter,0
-2015,Placement,Swine,E. coli,0
-2015,Placement,Swine,Enterococcus,0
-2015,Placement,Swine,Salmonella,0
-2015,Placement,Turkey,Campylobacter,0
-2015,Placement,Turkey,E. coli,0
-2015,Placement,Turkey,Enterococcus,0
-2015,Placement,Turkey,Salmonella,0
-2016,Farm,Cattle,Campylobacter,1
-2016,Farm,Cattle,E. coli,1
-2016,Farm,Cattle,Enterococcus,0
-2016,Farm,Cattle,Salmonella,1
-2016,Farm,Chicken,Campylobacter,1
-2016,Farm,Chicken,E. coli,1
-2016,Farm,Chicken,Enterococcus,0
-2016,Farm,Chicken,Salmonella,1
-2016,Farm,Swine,Campylobacter,0
-2016,Farm,Swine,E. coli,1
-2016,Farm,Swine,Enterococcus,0
-2016,Farm,Swine,Salmonella,1
-2016,Farm,Turkey,Campylobacter,1
-2016,Farm,Turkey,E. coli,1
-2016,Farm,Turkey,Enterococcus,0
-2016,Farm,Turkey,Salmonella,1
-2016,Abattoir,Cattle,Campylobacter,1
-2016,Abattoir,Cattle,E. coli,1
-2016,Abattoir,Cattle,Enterococcus,0
-2016,Abattoir,Cattle,Salmonella,0
-2016,Abattoir,Chicken,Campylobacter,1
-2016,Abattoir,Chicken,E. coli,1
-2016,Abattoir,Chicken,Enterococcus,0
-2016,Abattoir,Chicken,Salmonella,1
-2016,Abattoir,Swine,Campylobacter,1
-2016,Abattoir,Swine,E. coli,1
-2016,Abattoir,Swine,Enterococcus,0
-2016,Abattoir,Swine,Salmonella,1
-2016,Abattoir,Turkey,Campylobacter,0
-2016,Abattoir,Turkey,E. coli,0
-2016,Abattoir,Turkey,Enterococcus,0
-2016,Abattoir,Turkey,Salmonella,0
-2016,Retail,Cattle,Campylobacter,0
-2016,Retail,Cattle,E. coli,1
-2016,Retail,Cattle,Enterococcus,0
-2016,Retail,Cattle,Salmonella,0
-2016,Retail,Chicken,Campylobacter,1
-2016,Retail,Chicken,E. coli,1
-2016,Retail,Chicken,Enterococcus,0
-2016,Retail,Chicken,Salmonella,1
-2016,Retail,Swine,Campylobacter,0
-2016,Retail,Swine,E. coli,1
-2016,Retail,Swine,Enterococcus,0
-2016,Retail,Swine,Salmonella,0
-2016,Retail,Turkey,Campylobacter,1
-2016,Retail,Turkey,E. coli,1
-2016,Retail,Turkey,Enterococcus,0
-2016,Retail,Turkey,Salmonella,1
-2016,Placement,Cattle,Campylobacter,0
-2016,Placement,Cattle,E. coli,0
-2016,Placement,Cattle,Enterococcus,0
-2016,Placement,Cattle,Salmonella,0
-2016,Placement,Chicken,Campylobacter,0
-2016,Placement,Chicken,E. coli,1
-2016,Placement,Chicken,Enterococcus,0
-2016,Placement,Chicken,Salmonella,1
-2016,Placement,Swine,Campylobacter,0
-2016,Placement,Swine,E. coli,0
-2016,Placement,Swine,Enterococcus,0
-2016,Placement,Swine,Salmonella,0
-2016,Placement,Turkey,Campylobacter,0
-2016,Placement,Turkey,E. coli,0
-2016,Placement,Turkey,Enterococcus,0
-2016,Placement,Turkey,Salmonella,0
-2014,Farm,Cattle,Campylobacter,0
-2014,Farm,Cattle,E. coli,0
-2014,Farm,Cattle,Enterococcus,0
-2014,Farm,Cattle,Salmonella,0
-2014,Farm,Chicken,Campylobacter,1
-2014,Farm,Chicken,E. coli,1
-2014,Farm,Chicken,Enterococcus,0
-2014,Farm,Chicken,Salmonella,1
-2014,Farm,Swine,Campylobacter,0
-2014,Farm,Swine,E. coli,1
-2014,Farm,Swine,Enterococcus,0
-2014,Farm,Swine,Salmonella,1
-2014,Farm,Turkey,Campylobacter,0
-2014,Farm,Turkey,E. coli,0
-2014,Farm,Turkey,Enterococcus,0
-2014,Farm,Turkey,Salmonella,0
-2014,Abattoir,Cattle,Campylobacter,1
-2014,Abattoir,Cattle,E. coli,1
-2014,Abattoir,Cattle,Enterococcus,0
-2014,Abattoir,Cattle,Salmonella,0
-2014,Abattoir,Chicken,Campylobacter,1
-2014,Abattoir,Chicken,E. coli,1
-2014,Abattoir,Chicken,Enterococcus,0
-2014,Abattoir,Chicken,Salmonella,1
-2014,Abattoir,Swine,Campylobacter,1
-2014,Abattoir,Swine,E. coli,1
-2014,Abattoir,Swine,Enterococcus,0
-2014,Abattoir,Swine,Salmonella,1
-2014,Abattoir,Turkey,Campylobacter,0
-2014,Abattoir,Turkey,E. coli,0
-2014,Abattoir,Turkey,Enterococcus,0
-2014,Abattoir,Turkey,Salmonella,0
-2014,Retail,Cattle,Campylobacter,0
-2014,Retail,Cattle,E. coli,1
-2014,Retail,Cattle,Enterococcus,0
-2014,Retail,Cattle,Salmonella,0
-2014,Retail,Chicken,Campylobacter,1
-2014,Retail,Chicken,E. coli,1
-2014,Retail,Chicken,Enterococcus,0
-2014,Retail,Chicken,Salmonella,1
-2014,Retail,Swine,Campylobacter,0
-2014,Retail,Swine,E. coli,1
-2014,Retail,Swine,Enterococcus,0
-2014,Retail,Swine,Salmonella,0
-2014,Retail,Turkey,Campylobacter,1
-2014,Retail,Turkey,E. coli,1
-2014,Retail,Turkey,Enterococcus,0
-2014,Retail,Turkey,Salmonella,1
-2014,Placement,Cattle,Campylobacter,0
-2014,Placement,Cattle,E. coli,0
-2014,Placement,Cattle,Enterococcus,0
-2014,Placement,Cattle,Salmonella,0
-2014,Placement,Chicken,Campylobacter,0
-2014,Placement,Chicken,E. coli,1
-2014,Placement,Chicken,Enterococcus,0
-2014,Placement,Chicken,Salmonella,1
-2014,Placement,Swine,Campylobacter,0
-2014,Placement,Swine,E. coli,0
-2014,Placement,Swine,Enterococcus,0
-2014,Placement,Swine,Salmonella,0
-2014,Placement,Turkey,Campylobacter,0
-2014,Placement,Turkey,E. coli,0
-2014,Placement,Turkey,Enterococcus,0
-2014,Placement,Turkey,Salmonella,0
-2013,Farm,Cattle,Campylobacter,0
-2013,Farm,Cattle,E. coli,0
-2013,Farm,Cattle,Enterococcus,0
-2013,Farm,Cattle,Salmonella,0
-2013,Farm,Chicken,Campylobacter,1
-2013,Farm,Chicken,E. coli,1
-2013,Farm,Chicken,Enterococcus,0
-2013,Farm,Chicken,Salmonella,1
-2013,Farm,Swine,Campylobacter,0
-2013,Farm,Swine,E. coli,1
-2013,Farm,Swine,Enterococcus,0
-2013,Farm,Swine,Salmonella,1
-2013,Farm,Turkey,Campylobacter,0
-2013,Farm,Turkey,E. coli,0
-2013,Farm,Turkey,Enterococcus,0
-2013,Farm,Turkey,Salmonella,0
-2013,Abattoir,Cattle,Campylobacter,1
-2013,Abattoir,Cattle,E. coli,1
-2013,Abattoir,Cattle,Enterococcus,0
-2013,Abattoir,Cattle,Salmonella,0
-2013,Abattoir,Chicken,Campylobacter,1
-2013,Abattoir,Chicken,E. coli,1
-2013,Abattoir,Chicken,Enterococcus,0
-2013,Abattoir,Chicken,Salmonella,1
-2013,Abattoir,Swine,Campylobacter,1
-2013,Abattoir,Swine,E. coli,1
-2013,Abattoir,Swine,Enterococcus,0
-2013,Abattoir,Swine,Salmonella,1
-2013,Abattoir,Turkey,Campylobacter,0
-2013,Abattoir,Turkey,E. coli,0
-2013,Abattoir,Turkey,Enterococcus,0
-2013,Abattoir,Turkey,Salmonella,0
-2013,Retail,Cattle,Campylobacter,0
-2013,Retail,Cattle,E. coli,1
-2013,Retail,Cattle,Enterococcus,0
-2013,Retail,Cattle,Salmonella,0
-2013,Retail,Chicken,Campylobacter,1
-2013,Retail,Chicken,E. coli,1
-2013,Retail,Chicken,Enterococcus,0
-2013,Retail,Chicken,Salmonella,1
-2013,Retail,Swine,Campylobacter,0
-2013,Retail,Swine,E. coli,1
-2013,Retail,Swine,Enterococcus,0
-2013,Retail,Swine,Salmonella,0
-2013,Retail,Turkey,Campylobacter,1
-2013,Retail,Turkey,E. coli,1
-2013,Retail,Turkey,Enterococcus,0
-2013,Retail,Turkey,Salmonella,1
-2013,Placement,Cattle,Campylobacter,0
-2013,Placement,Cattle,E. coli,0
-2013,Placement,Cattle,Enterococcus,0
-2013,Placement,Cattle,Salmonella,0
-2013,Placement,Chicken,Campylobacter,0
-2013,Placement,Chicken,E. coli,1
-2013,Placement,Chicken,Enterococcus,0
-2013,Placement,Chicken,Salmonella,1
-2013,Placement,Swine,Campylobacter,0
-2013,Placement,Swine,E. coli,0
-2013,Placement,Swine,Enterococcus,0
-2013,Placement,Swine,Salmonella,0
-2013,Placement,Turkey,Campylobacter,0
-2013,Placement,Turkey,E. coli,0
-2013,Placement,Turkey,Enterococcus,0
-2013,Placement,Turkey,Salmonella,0
+year,prod_stage,commodity,pathogen,did_sample
+2015,Farm,Cattle,Campylobacter,no
+2015,Farm,Cattle,E. coli,no
+2015,Farm,Cattle,Enterococcus,no
+2015,Farm,Cattle,Salmonella,no
+2015,Farm,Chicken,Campylobacter,yes
+2015,Farm,Chicken,E. coli,yes
+2015,Farm,Chicken,Enterococcus,no
+2015,Farm,Chicken,Salmonella,yes
+2015,Farm,Swine,Campylobacter,no
+2015,Farm,Swine,E. coli,yes
+2015,Farm,Swine,Enterococcus,no
+2015,Farm,Swine,Salmonella,yes
+2015,Farm,Turkey,Campylobacter,no
+2015,Farm,Turkey,E. coli,no
+2015,Farm,Turkey,Enterococcus,no
+2015,Farm,Turkey,Salmonella,no
+2015,Abattoir,Cattle,Campylobacter,yes
+2015,Abattoir,Cattle,E. coli,yes
+2015,Abattoir,Cattle,Enterococcus,no
+2015,Abattoir,Cattle,Salmonella,no
+2015,Abattoir,Chicken,Campylobacter,yes
+2015,Abattoir,Chicken,E. coli,yes
+2015,Abattoir,Chicken,Enterococcus,no
+2015,Abattoir,Chicken,Salmonella,yes
+2015,Abattoir,Swine,Campylobacter,yes
+2015,Abattoir,Swine,E. coli,yes
+2015,Abattoir,Swine,Enterococcus,no
+2015,Abattoir,Swine,Salmonella,yes
+2015,Abattoir,Turkey,Campylobacter,no
+2015,Abattoir,Turkey,E. coli,no
+2015,Abattoir,Turkey,Enterococcus,no
+2015,Abattoir,Turkey,Salmonella,no
+2015,Retail,Cattle,Campylobacter,no
+2015,Retail,Cattle,E. coli,yes
+2015,Retail,Cattle,Enterococcus,no
+2015,Retail,Cattle,Salmonella,no
+2015,Retail,Chicken,Campylobacter,yes
+2015,Retail,Chicken,E. coli,yes
+2015,Retail,Chicken,Enterococcus,no
+2015,Retail,Chicken,Salmonella,yes
+2015,Retail,Swine,Campylobacter,no
+2015,Retail,Swine,E. coli,yes
+2015,Retail,Swine,Enterococcus,no
+2015,Retail,Swine,Salmonella,no
+2015,Retail,Turkey,Campylobacter,yes
+2015,Retail,Turkey,E. coli,yes
+2015,Retail,Turkey,Enterococcus,no
+2015,Retail,Turkey,Salmonella,yes
+2015,Placement,Cattle,Campylobacter,no
+2015,Placement,Cattle,E. coli,no
+2015,Placement,Cattle,Enterococcus,no
+2015,Placement,Cattle,Salmonella,no
+2015,Placement,Chicken,Campylobacter,no
+2015,Placement,Chicken,E. coli,yes
+2015,Placement,Chicken,Enterococcus,no
+2015,Placement,Chicken,Salmonella,yes
+2015,Placement,Swine,Campylobacter,no
+2015,Placement,Swine,E. coli,no
+2015,Placement,Swine,Enterococcus,no
+2015,Placement,Swine,Salmonella,no
+2015,Placement,Turkey,Campylobacter,no
+2015,Placement,Turkey,E. coli,no
+2015,Placement,Turkey,Enterococcus,no
+2015,Placement,Turkey,Salmonella,no
+2016,Farm,Cattle,Campylobacter,yes
+2016,Farm,Cattle,E. coli,yes
+2016,Farm,Cattle,Enterococcus,no
+2016,Farm,Cattle,Salmonella,yes
+2016,Farm,Chicken,Campylobacter,yes
+2016,Farm,Chicken,E. coli,yes
+2016,Farm,Chicken,Enterococcus,no
+2016,Farm,Chicken,Salmonella,yes
+2016,Farm,Swine,Campylobacter,no
+2016,Farm,Swine,E. coli,yes
+2016,Farm,Swine,Enterococcus,no
+2016,Farm,Swine,Salmonella,yes
+2016,Farm,Turkey,Campylobacter,yes
+2016,Farm,Turkey,E. coli,yes
+2016,Farm,Turkey,Enterococcus,no
+2016,Farm,Turkey,Salmonella,yes
+2016,Abattoir,Cattle,Campylobacter,yes
+2016,Abattoir,Cattle,E. coli,yes
+2016,Abattoir,Cattle,Enterococcus,no
+2016,Abattoir,Cattle,Salmonella,no
+2016,Abattoir,Chicken,Campylobacter,yes
+2016,Abattoir,Chicken,E. coli,yes
+2016,Abattoir,Chicken,Enterococcus,no
+2016,Abattoir,Chicken,Salmonella,yes
+2016,Abattoir,Swine,Campylobacter,yes
+2016,Abattoir,Swine,E. coli,yes
+2016,Abattoir,Swine,Enterococcus,no
+2016,Abattoir,Swine,Salmonella,yes
+2016,Abattoir,Turkey,Campylobacter,no
+2016,Abattoir,Turkey,E. coli,no
+2016,Abattoir,Turkey,Enterococcus,no
+2016,Abattoir,Turkey,Salmonella,no
+2016,Retail,Cattle,Campylobacter,no
+2016,Retail,Cattle,E. coli,yes
+2016,Retail,Cattle,Enterococcus,no
+2016,Retail,Cattle,Salmonella,no
+2016,Retail,Chicken,Campylobacter,yes
+2016,Retail,Chicken,E. coli,yes
+2016,Retail,Chicken,Enterococcus,no
+2016,Retail,Chicken,Salmonella,yes
+2016,Retail,Swine,Campylobacter,no
+2016,Retail,Swine,E. coli,yes
+2016,Retail,Swine,Enterococcus,no
+2016,Retail,Swine,Salmonella,no
+2016,Retail,Turkey,Campylobacter,yes
+2016,Retail,Turkey,E. coli,yes
+2016,Retail,Turkey,Enterococcus,no
+2016,Retail,Turkey,Salmonella,yes
+2016,Placement,Cattle,Campylobacter,no
+2016,Placement,Cattle,E. coli,no
+2016,Placement,Cattle,Enterococcus,no
+2016,Placement,Cattle,Salmonella,no
+2016,Placement,Chicken,Campylobacter,no
+2016,Placement,Chicken,E. coli,yes
+2016,Placement,Chicken,Enterococcus,no
+2016,Placement,Chicken,Salmonella,yes
+2016,Placement,Swine,Campylobacter,no
+2016,Placement,Swine,E. coli,no
+2016,Placement,Swine,Enterococcus,no
+2016,Placement,Swine,Salmonella,no
+2016,Placement,Turkey,Campylobacter,no
+2016,Placement,Turkey,E. coli,no
+2016,Placement,Turkey,Enterococcus,no
+2016,Placement,Turkey,Salmonella,no
+2014,Farm,Cattle,Campylobacter,no
+2014,Farm,Cattle,E. coli,no
+2014,Farm,Cattle,Enterococcus,no
+2014,Farm,Cattle,Salmonella,no
+2014,Farm,Chicken,Campylobacter,yes
+2014,Farm,Chicken,E. coli,yes
+2014,Farm,Chicken,Enterococcus,no
+2014,Farm,Chicken,Salmonella,yes
+2014,Farm,Swine,Campylobacter,no
+2014,Farm,Swine,E. coli,yes
+2014,Farm,Swine,Enterococcus,no
+2014,Farm,Swine,Salmonella,yes
+2014,Farm,Turkey,Campylobacter,no
+2014,Farm,Turkey,E. coli,no
+2014,Farm,Turkey,Enterococcus,no
+2014,Farm,Turkey,Salmonella,no
+2014,Abattoir,Cattle,Campylobacter,yes
+2014,Abattoir,Cattle,E. coli,yes
+2014,Abattoir,Cattle,Enterococcus,no
+2014,Abattoir,Cattle,Salmonella,no
+2014,Abattoir,Chicken,Campylobacter,yes
+2014,Abattoir,Chicken,E. coli,yes
+2014,Abattoir,Chicken,Enterococcus,no
+2014,Abattoir,Chicken,Salmonella,yes
+2014,Abattoir,Swine,Campylobacter,yes
+2014,Abattoir,Swine,E. coli,yes
+2014,Abattoir,Swine,Enterococcus,no
+2014,Abattoir,Swine,Salmonella,yes
+2014,Abattoir,Turkey,Campylobacter,no
+2014,Abattoir,Turkey,E. coli,no
+2014,Abattoir,Turkey,Enterococcus,no
+2014,Abattoir,Turkey,Salmonella,no
+2014,Retail,Cattle,Campylobacter,no
+2014,Retail,Cattle,E. coli,yes
+2014,Retail,Cattle,Enterococcus,no
+2014,Retail,Cattle,Salmonella,no
+2014,Retail,Chicken,Campylobacter,yes
+2014,Retail,Chicken,E. coli,yes
+2014,Retail,Chicken,Enterococcus,no
+2014,Retail,Chicken,Salmonella,yes
+2014,Retail,Swine,Campylobacter,no
+2014,Retail,Swine,E. coli,yes
+2014,Retail,Swine,Enterococcus,no
+2014,Retail,Swine,Salmonella,no
+2014,Retail,Turkey,Campylobacter,yes
+2014,Retail,Turkey,E. coli,yes
+2014,Retail,Turkey,Enterococcus,no
+2014,Retail,Turkey,Salmonella,yes
+2014,Placement,Cattle,Campylobacter,no
+2014,Placement,Cattle,E. coli,no
+2014,Placement,Cattle,Enterococcus,no
+2014,Placement,Cattle,Salmonella,no
+2014,Placement,Chicken,Campylobacter,no
+2014,Placement,Chicken,E. coli,yes
+2014,Placement,Chicken,Enterococcus,no
+2014,Placement,Chicken,Salmonella,yes
+2014,Placement,Swine,Campylobacter,no
+2014,Placement,Swine,E. coli,no
+2014,Placement,Swine,Enterococcus,no
+2014,Placement,Swine,Salmonella,no
+2014,Placement,Turkey,Campylobacter,no
+2014,Placement,Turkey,E. coli,no
+2014,Placement,Turkey,Enterococcus,no
+2014,Placement,Turkey,Salmonella,no
+2013,Farm,Cattle,Campylobacter,no
+2013,Farm,Cattle,E. coli,no
+2013,Farm,Cattle,Enterococcus,no
+2013,Farm,Cattle,Salmonella,no
+2013,Farm,Chicken,Campylobacter,yes
+2013,Farm,Chicken,E. coli,yes
+2013,Farm,Chicken,Enterococcus,no
+2013,Farm,Chicken,Salmonella,yes
+2013,Farm,Swine,Campylobacter,no
+2013,Farm,Swine,E. coli,yes
+2013,Farm,Swine,Enterococcus,no
+2013,Farm,Swine,Salmonella,yes
+2013,Farm,Turkey,Campylobacter,no
+2013,Farm,Turkey,E. coli,no
+2013,Farm,Turkey,Enterococcus,no
+2013,Farm,Turkey,Salmonella,no
+2013,Abattoir,Cattle,Campylobacter,yes
+2013,Abattoir,Cattle,E. coli,yes
+2013,Abattoir,Cattle,Enterococcus,no
+2013,Abattoir,Cattle,Salmonella,no
+2013,Abattoir,Chicken,Campylobacter,yes
+2013,Abattoir,Chicken,E. coli,yes
+2013,Abattoir,Chicken,Enterococcus,no
+2013,Abattoir,Chicken,Salmonella,yes
+2013,Abattoir,Swine,Campylobacter,yes
+2013,Abattoir,Swine,E. coli,yes
+2013,Abattoir,Swine,Enterococcus,no
+2013,Abattoir,Swine,Salmonella,yes
+2013,Abattoir,Turkey,Campylobacter,no
+2013,Abattoir,Turkey,E. coli,no
+2013,Abattoir,Turkey,Enterococcus,no
+2013,Abattoir,Turkey,Salmonella,no
+2013,Retail,Cattle,Campylobacter,no
+2013,Retail,Cattle,E. coli,yes
+2013,Retail,Cattle,Enterococcus,no
+2013,Retail,Cattle,Salmonella,no
+2013,Retail,Chicken,Campylobacter,yes
+2013,Retail,Chicken,E. coli,yes
+2013,Retail,Chicken,Enterococcus,no
+2013,Retail,Chicken,Salmonella,yes
+2013,Retail,Swine,Campylobacter,no
+2013,Retail,Swine,E. coli,yes
+2013,Retail,Swine,Enterococcus,no
+2013,Retail,Swine,Salmonella,no
+2013,Retail,Turkey,Campylobacter,yes
+2013,Retail,Turkey,E. coli,yes
+2013,Retail,Turkey,Enterococcus,no
+2013,Retail,Turkey,Salmonella,yes
+2013,Placement,Cattle,Campylobacter,no
+2013,Placement,Cattle,E. coli,no
+2013,Placement,Cattle,Enterococcus,no
+2013,Placement,Cattle,Salmonella,no
+2013,Placement,Chicken,Campylobacter,no
+2013,Placement,Chicken,E. coli,yes
+2013,Placement,Chicken,Enterococcus,no
+2013,Placement,Chicken,Salmonella,yes
+2013,Placement,Swine,Campylobacter,no
+2013,Placement,Swine,E. coli,no
+2013,Placement,Swine,Enterococcus,no
+2013,Placement,Swine,Salmonella,no
+2013,Placement,Turkey,Campylobacter,no
+2013,Placement,Turkey,E. coli,no
+2013,Placement,Turkey,Enterococcus,no
+2013,Placement,Turkey,Salmonella,no
+2017,Abattoir,Cattle,Campylobacter,yes
+2017,Abattoir,Cattle,E. coli,yes
+2017,Abattoir,Cattle,Enterococcus,no
+2017,Abattoir,Cattle,Salmonella,no
+2017,Abattoir,Chicken,Campylobacter,yes
+2017,Abattoir,Chicken,E. coli,yes
+2017,Abattoir,Chicken,Enterococcus,no
+2017,Abattoir,Chicken,Salmonella,yes
+2017,Abattoir,Swine,Campylobacter,yes
+2017,Abattoir,Swine,E. coli,yes
+2017,Abattoir,Swine,Enterococcus,no
+2017,Abattoir,Swine,Salmonella,no
+2017,Abattoir,Turkey,Campylobacter,no
+2017,Abattoir,Turkey,E. coli,no
+2017,Abattoir,Turkey,Enterococcus,no
+2017,Abattoir,Turkey,Salmonella,no
+2017,Retail,Cattle,Campylobacter,no
+2017,Retail,Cattle,E. coli,yes
+2017,Retail,Cattle,Enterococcus,no
+2017,Retail,Cattle,Salmonella,no
+2017,Retail,Chicken,Campylobacter,yes
+2017,Retail,Chicken,E. coli,yes
+2017,Retail,Chicken,Enterococcus,no
+2017,Retail,Chicken,Salmonella,yes
+2017,Retail,Swine,Campylobacter,no
+2017,Retail,Swine,E. coli,yes
+2017,Retail,Swine,Enterococcus,no
+2017,Retail,Swine,Salmonella,no
+2017,Retail,Turkey,Campylobacter,no
+2017,Retail,Turkey,E. coli,yes
+2017,Retail,Turkey,Enterococcus,no
+2017,Retail,Turkey,Salmonella,yes
+2017,Farm,Cattle,Campylobacter,yes
+2017,Farm,Cattle,E. coli,yes
+2017,Farm,Cattle,Enterococcus,no
+2017,Farm,Cattle,Salmonella,no
+2017,Farm,Chicken,Campylobacter,yes
+2017,Farm,Chicken,E. coli,yes
+2017,Farm,Chicken,Enterococcus,no
+2017,Farm,Chicken,Salmonella,yes
+2017,Farm,Swine,Campylobacter,yes
+2017,Farm,Swine,E. coli,yes
+2017,Farm,Swine,Enterococcus,no
+2017,Farm,Swine,Salmonella,yes
+2017,Farm,Turkey,Campylobacter,yes
+2017,Farm,Turkey,E. coli,yes
+2017,Farm,Turkey,Enterococcus,no
+2017,Farm,Turkey,Salmonella,yes
+2017,Placement,Cattle,Campylobacter,no
+2017,Placement,Cattle,E. coli,no
+2017,Placement,Cattle,Enterococcus,no
+2017,Placement,Cattle,Salmonella,no
+2017,Placement,Chicken,Campylobacter,no
+2017,Placement,Chicken,E. coli,no
+2017,Placement,Chicken,Enterococcus,no
+2017,Placement,Chicken,Salmonella,no
+2017,Placement,Swine,Campylobacter,no
+2017,Placement,Swine,E. coli,no
+2017,Placement,Swine,Enterococcus,no
+2017,Placement,Swine,Salmonella,no
+2017,Placement,Turkey,Campylobacter,no
+2017,Placement,Turkey,E. coli,no
+2017,Placement,Turkey,Enterococcus,no
+2017,Placement,Turkey,Salmonella,no
+2018,Retail,Cattle,Campylobacter,no
+2018,Retail,Cattle,E. coli,yes
+2018,Retail,Cattle,Enterococcus,no
+2018,Retail,Cattle,Salmonella,no
+2018,Retail,Chicken,Campylobacter,yes
+2018,Retail,Chicken,E. coli,yes
+2018,Retail,Chicken,Enterococcus,no
+2018,Retail,Chicken,Salmonella,yes
+2018,Retail,Swine,Campylobacter,no
+2018,Retail,Swine,E. coli,yes
+2018,Retail,Swine,Enterococcus,no
+2018,Retail,Swine,Salmonella,no
+2018,Retail,Turkey,Campylobacter,no
+2018,Retail,Turkey,E. coli,yes
+2018,Retail,Turkey,Enterococcus,no
+2018,Retail,Turkey,Salmonella,yes
+2018,Abattoir,Cattle,Campylobacter,yes
+2018,Abattoir,Cattle,E. coli,yes
+2018,Abattoir,Cattle,Enterococcus,no
+2018,Abattoir,Cattle,Salmonella,no
+2018,Abattoir,Chicken,Campylobacter,yes
+2018,Abattoir,Chicken,E. coli,yes
+2018,Abattoir,Chicken,Enterococcus,no
+2018,Abattoir,Chicken,Salmonella,yes
+2018,Abattoir,Swine,Campylobacter,yes
+2018,Abattoir,Swine,E. coli,yes
+2018,Abattoir,Swine,Enterococcus,no
+2018,Abattoir,Swine,Salmonella,yes
+2018,Abattoir,Turkey,Campylobacter,no
+2018,Abattoir,Turkey,E. coli,no
+2018,Abattoir,Turkey,Enterococcus,no
+2018,Abattoir,Turkey,Salmonella,no
+2018,Farm,Cattle,Campylobacter,yes
+2018,Farm,Cattle,E. coli,yes
+2018,Farm,Cattle,Enterococcus,no
+2018,Farm,Cattle,Salmonella,no
+2018,Farm,Chicken,Campylobacter,yes
+2018,Farm,Chicken,E. coli,yes
+2018,Farm,Chicken,Enterococcus,no
+2018,Farm,Chicken,Salmonella,yes
+2018,Farm,Swine,Campylobacter,yes
+2018,Farm,Swine,E. coli,yes
+2018,Farm,Swine,Enterococcus,no
+2018,Farm,Swine,Salmonella,yes
+2018,Farm,Turkey,Campylobacter,yes
+2018,Farm,Turkey,E. coli,yes
+2018,Farm,Turkey,Enterococcus,no
+2018,Farm,Turkey,Salmonella,yes
