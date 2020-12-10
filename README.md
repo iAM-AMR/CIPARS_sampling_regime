@@ -2,6 +2,8 @@
 
 This is an unofficial summary of the CIPARS AMR sampling regime. The squares in blue indicate where data are available. 
 
+![Sampling Regime](cipars_sampling_regime.png)
+
 
 ## Sampling Considerations
 
