@@ -26,8 +26,10 @@ data$prod_stage %<>% factor(levels = c("Placement", "Farm", "Abattoir", "Retail"
 
 ggplot(data = data, aes(year, pathogen, fill = did_sample)) +
   geom_tile(colour = "white") +
-  facet_grid(prod_stage~commodity) + 
-  scale_fill_gradient(low = "white", high = "sky blue")
+  facet_grid(prod_stage~commodity) 
+
+# For numeric scale
+# + scale_fill_gradient(low = "white", high = "sky blue")
 
 ggsave(
   "cipars_sampling_regime.png",
